@@ -62,7 +62,7 @@ Usage:
 This command will download some data. This includes the PMCID-PMIC mapping file to identify which articles have a full text available and [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/), a very useful Java library that implements many learning-to-rank algorithms.
 
 ### pbm classify
-A sample dataset is provided in this repository, from a <a href="ftp://ftp.ncbi.nlm.nih.gov/pub/wilbur/DAYSLOG">previously published day of logs</a>. This classification step aims at roughly filtering queries that are relevant for training. Essentially, we want to discard queries with fields, regular expressions or boolean operations. The remaining set is the one used for training, since the other categories of queries are better handled by the search engine.
+A sample dataset is provided in this repository, from a [previously published day of logs](https://ftp.ncbi.nlm.nih.gov/pub/wilbur/DAYSLOG). This classification step aims at roughly filtering queries that are relevant for training. Essentially, we want to discard queries with fields, regular expressions or boolean operations. The remaining set is the one used for training, since the other categories of queries are better handled by the search engine.
 
 ### pbm fetch
 Once the queries are curated, we need to fetch the corresponding articles in XML format (in `data/articles`) according to the sample dataset results (in `data/results`). We use eutils for this process and there are some limitations. By default, only 3 requests per second can be performed, but by generating an API key and entering it in the config file (see above), 10rps are allowed. [More information here.](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/)
