@@ -1,0 +1,1000 @@
+qid0000|ultrasound and chronic pancreatitis
+qid0001|estrogen receptor alpha, gene regulation, brain
+qid0002|"Rabbani F"[Author]
+qid0003|robson aphasia 1998
+qid0004|Endoscopy[Jour] AND A237[page]
+qid0005|Wang 2005 and tongue
+qid0006|antiproliferative valrubicin
+qid0007|mucin protease stomach
+qid0008|bauer s
+qid0009|aggression hallucinations
+qid0010|Bid + human epithelial intestinal cell
+qid0011|HIV RT structure 1998
+qid0012| classification of hypovolemic shock
+qid0013|somatic hyper mutation
+qid0014|femur anatomical measurements trochlear groove
+qid0015|pdgf alpha receptor review oligodendrocytes
+qid0016|occupational case-control alfredsson
+qid0017|DAP12,  immune responses, review
+qid0018| phosphorylated histone
+qid0019|adenomectomy AND suprapubic
+qid0020|Gujral J and cell death
+qid0021|#8 AND bell*
+qid0022|methyleneblue  TiO2
+qid0023|anderson SE
+qid0024|ONDS
+qid0025|dion gl.
+qid0026|erythema elevatum and eosinophils
+qid0027|Lazar USA diabetes
+qid0028|Budeus
+qid0029|Gingival contour and clinical 
+qid0030|"Greten FR"[Author]
+qid0031|tran-tt
+qid0032|collins fs.
+qid0033|Whittlesey, KJ
+qid0034|gout + women
+qid0035|rotenone review
+qid0036|coso oa mef2
+qid0037|heparin AND warfarin
+qid0038|oger[au] venous
+qid0039|fatigue and oncology
+qid0040|LEAD SEA SALT
+qid0041|ikeno stanford
+qid0042|sonenberg N AND Genes Dev.
+qid0043|Ramos AND TLR
+qid0044|corticosteroides
+qid0045|IFN-g
+qid0046|HYPERPIGMENTATION OF THE SKIN
+qid0047|justesen, stenderup
+qid0048|Abdallah Mycobacteria pSMT-3
+qid0049|agarwal, blumberg, london
+qid0050|Yanase T
+qid0051|preterm neonates AND nephrocalcinosis
+qid0052|Schaaf  w
+qid0053|"Wrana JL"[Author] smurf1
+qid0054|gunes y and 2005 and15
+qid0055|wiedmann listeria
+qid0056|myosin VII and brain
+qid0057|Galvin J
+qid0058|molecular vision 9
+qid0059|trisomy 13 downs
+qid0060|Olivson A, Schwalb H
+qid0061|zinc proteoglycan
+qid0062|murohara t, panday mm
+qid0063|resuscitation endpoints
+qid0064|8677136
+qid0065|change detection without awareness do explicit reports underestimate
+qid0066|West SK y Valmadrid CT 
+qid0067|direct service in occupational therapy
+qid0068|drosophila and neurobiology
+qid0069|oncogenes chemicals
+qid0070|rabsome
+qid0071|koch h
+qid0072|nopora A.
+qid0073|Cyclosporiasis
+qid0074|MRI of the cervical spinal cord
+qid0075|"Chaput MA"[Author]
+qid0076|insulin* AND "insulin/history"[All Fields] AND "insulin/history"[All Fields]
+qid0077|ABLION trial and plavix
+qid0078|(((pain) AND (#2)))
+qid0079|abrahamsen worn dentition
+qid0080|"JAMA : the journal of the American Medical Association"[Jour] AND 290[volume] AND 932[page] AND Emerging Risk Factors for Atherosclerotic Vascular Disease 
+qid0081|modification of diet in renal disease glomerular filtration rate
+qid0082|LSM medium
+qid0083|Amphetamine heat shock rat
+qid0084|hypercalcemia ffp
+qid0085|thiazides angiotensin converting enzime
+qid0086|tsh and Fasano and hox
+qid0087|palma mcdonaugh
+qid0088|long  Mw regulation  of human bone marrow-derived  osteoprogenitor
+qid0089|HUVEC rhodococcus
+qid0090|hemoglobinopathies koshy
+qid0091|ameloblastoma AND (blood groups)
+qid0092|immunoglobulin AND rubella
+qid0093|Science[Jour] AND 2001[pdat] AND resistance
+qid0094|cellular oxygen consumption 
+qid0095|CCR11 and metastasis
+qid0096|Witzemann
+qid0097|mesenchymal cell differentiation in fibroblast
+qid0098|Periodontal healing in relation to radiographic attachment and endodontic infection
+qid0099|ED1 and DC
+qid0100|takahashi AND isc
+qid0101|abi3 expression
+qid0102|Alzheimer and Dementia
+qid0103|Bristol heart scandal
+qid0104|duxbury waterloo
+qid0105|TAF
+qid0106|pantalar fusions
+qid0107|IL-6 TNF
+qid0108|gga adaptors
+qid0109|ADAMTS13 domain structure
+qid0110|Triptolide is a potent suppressant of C3, CD40 and B7h expression in activated human proximal tubular epithelial cells.
+qid0111|gov y and borovok i
+qid0112| Weinblatt ME, Keystone EC, Furst DE, 
+qid0113|Dang Meixia
+qid0114|trypanosoma cruzi  marta
+qid0115|neuropathy AND genetics AND HIV
+qid0116|kim winer 1993 vascular
+qid0117|"The Journal of the American Board of Family Practice / American Board of Family Practice"[Jour] AND 16[volume] AND 95[page] AND 2003[pdat]
+qid0118|"ken hamblin"
+qid0119|percherancier y
+qid0120|Nature Initial sequencing
+qid0121|university + physical activities
+qid0122|cartilago de crecimiento
+qid0123|approaches and human and trafficking[TI]
+qid0124|sebastian stevens
+qid0125|staphylococcus multiplex PCR tetracycline
+qid0126|Eng[LA] AND joint space
+qid0127|dietary proteins 
+qid0128|bannwarth b
+qid0129|ABCC6 
+qid0130|cohen 1992 epidemiology of drug
+qid0131|ninomiya y AND taste
+qid0132|strominger mhc
+qid0133|Mattson RH
+qid0134|estrogen receptor  alpha beta binding saturation assay
+qid0135|costes
+qid0136|Jaakkola and HIF
+qid0137|inlammation in ileus
+qid0138|cognition ms 
+qid0139|Medical and surgical therapy  diverticular disease
+qid0140|intermittent vein compression and obesity
+qid0141|hoerter j, 2005
+qid0142|Peroxiredoxin 4 
+qid0143|cannarozzi g
+qid0144|7[page] AND 2000[pdat] AND zussman[auth]
+qid0145|heart failure pregnancy trimenon
+qid0146|ZUO1
+qid0147|"Liebmann PM"[Author]
+qid0148|Norfloxacin AND Pharmacokinetics
+qid0149|High-performance affinity chromatography for characterization of human immunoglobulin G
+qid0150|(((#7)) OR (#6)) OR (#9)
+qid0151|rubin EJ mycobacterium
+qid0152|corticosterone food restriction rat stress
+qid0153|Oesterhelt Stoeckenius W
+qid0154|erlanger gasser 
+qid0155|astrocytes dopamine(rgic) receptors
+qid0156|bacteriocin intestine blactobacilus
+qid0157|Marsh JW, Dvorchik I, Bonham CA
+qid0158|smallpox outbreak and vaccination problems in stockholm, sweden 1963
+qid0159|PDK1 GSK3 lysosome
+qid0160|RNA polymerase III transcription review
+qid0161|IFITM1
+qid0162|moss and vaughan 1998
+qid0163|Kevin O'Brien
+qid0164|sert gentypy
+qid0165|madison axon
+qid0166|"Chien CT"[Author]
+qid0167|adhesion-regulating molecule 
+qid0168|CYP2A6 regulation
+qid0169|Miller ST Prediction of Adverse Outcomes in Children
+qid0170|CTLA4Ig
+qid0171|SOAT1 AND cancer
+qid0172|hopf AND turner AND mdx
+qid0173|"Lim ST"[Author]
+qid0174|fistula tracheostomy invasive ventilation
+qid0175|Eflornithine Hydrochloride 13.9% Cream alters Beard Hair Fibers in African-American with Pseudofolliculitis barbae
+qid0176|staging;head;neck;cancer
+qid0177|olmesartan AND valsartan
+qid0178|FOOD PROT.
+qid0179|Bowery NG
+qid0180|journal
+qid0181|Krishnamoorthy V, Scholz JP
+qid0182|Must et al
+qid0183|Yicong & Peng & depth-resolved
+qid0184|collagen and bone remodeling
+qid0185|Improving the power of sib pair quantitative trait loci detection by phenotype winsorization
+qid0186|epithelial testosterone* prolif*
+qid0187|simian virus 5
+qid0188|stitzel
+qid0189|lau kw [au]and 15247232, 15964822, 12702559 [uid]
+qid0190|co-enzyme statin
+qid0191|"McCafferty E"[Author]
+qid0192|annulo-spiral elastic fibres
+qid0193|"Flori E"[Author]
+qid0194|Genetic and dietary interaction of HMG-CoA reductase
+qid0195|Barile GR[au]
+qid0196|plasmin
+qid0197|paulin 1993
+qid0198|mozes m
+qid0199|CLCA proteins.
+qid0200|SMARCD3 AND cell cycle
+qid0201|"Miller LM"[Author]
+qid0202|liposomes a drug delivery system
+qid0203|Eng[LA] AND nasal obstruction
+qid0204|hnpcc and surveillance
+qid0205|GABAb AND RNA AND alcohol
+qid0206|brandholt v
+qid0207|wong J and HIC
+qid0208|cavernoma hypoglossal
+qid0209|"PEYSSARD L"[Author]
+qid0210|polyurethane  feeding
+qid0211|cationic lipids and DNa, review
+qid0212|"Lipids"[Jour] AND 1031[page] AND 1998[pdat]
+qid0213|williams cl tpn
+qid0214|shawan cell dental-pulp
+qid0215|Gaber dewhirst
+qid0216|Yonehara 1989
+qid0217|gitlin + andino
+qid0218|fillmore-h
+qid0219|straub 2005 
+qid0220|development and characterization of wheat-Leymus
+qid0221|assmann-g metabolism
+qid0222|PLB1 cryptococcus
+qid0223|"Pal H"[Author]
+qid0224|gleevec acetaminophene
+qid0225|guanylate cyclase and nitric oxide and glia proliferation
+qid0226|kinidin digoxine
+qid0227|16168674 [uid]
+qid0228|emc follicle
+qid0229|vilstrup h
+qid0230|Placha G
+qid0231|microglia activation, inflammation
+qid0232|"cell cycle" AND "infection"
+qid0233|C57BL/6 hair growth
+qid0234|epithellium cells follicular cells
+qid0235|anaemia, "iron resorption"
+qid0236|adenovirus and DBP and van der vliet pc
+qid0237|prophylaxis and packing and abdomen
+qid0238|10914301
+qid0239|gastric perforation
+qid0240|Saxena and Macdonald
+qid0241|p72syk src platelets par vwf
+qid0242|human ethics and growth hormone testing
+qid0243|exercise AND diabetic AND complications
+qid0244|"donor+MBR"
+qid0245|caherin and presynaptivc assembly
+qid0246|Chen and Shyu
+qid0247|wireless and and heart rate and glucose
+qid0248|vidwans
+qid0249|altrocchi, brin, ferguson
+qid0250|Mcconnell H
+qid0251|Silverman, 2001 serpin
+qid0252|who is the caregiver
+qid0253|aml who classification
+qid0254|"Winston F"[Author]
+qid0255|prostate cancer[MESH]
+qid0256|acenocumarol AND Klacid
+qid0257|bevacizumab in gastric cancer
+qid0258| oral cancer
+qid0259|new mutations cancer
+qid0260|Bruce Turnbull
+qid0261|t-dna
+qid0262|"Corruble E"[Author]
+qid0263|vestibule
+qid0264|Martin-clemente
+qid0265|diabetes mice inflammation
+qid0266|Spanagel [au] alcohol compulsion
+qid0267|dbioactive compunds from spongesrug discovery
+qid0268|"Ivanovskaya KN"[Author]
+qid0269|Nicotinamide-Adenine Dinucleotide plasma
+qid0270|yfatty liver
+qid0271|meadows gg
+qid0272|oliver s
+qid0273|herpes+ encephalitis + complications
+qid0274|finger amputation criteria
+qid0275|Eng[LA] AND hemolytic
+qid0276|omega three fatty acids
+qid0277|Jin ZG, Berk BC
+qid0278|non-feather Feather bedding
+qid0279|helming laura vitamin d
+qid0280|liver dysfunction angiotensin II receptor blocker
+qid0281|ductal carcinoma
+qid0282|Potts
+qid0283|buccal testosterone bioavailability
+qid0284|cytopathic and noncytopathic interferon resoponses in cells expressing hepatitis c
+qid0285|Wang C
+qid0286|Autopsy indicators of agony
+qid0287|fk228
+qid0288|AICAR HepG2
+qid0289|"Alon T"[Author]
+qid0290|Chondrolectin
+qid0291|uv radiation and skin cancer
+qid0292|perfusion disasters
+qid0293|POU domain
+qid0294|apoptosis & abda
+qid0295|khanna p AND 2005
+qid0296|8[volume] AND 3[issue] AND 140[page] AND 2001[pdat]
+qid0297|"Tanabe S"[Author] chiba
+qid0298|oxidative stress van dam
+qid0299|hatoum evaluation of the contribution of clinical pharmacists
+qid0300|Bisley JW
+qid0301|Yoshida K[auth]
+qid0302|de rooij   1998
+qid0303|"Beurskens CH"[Author]
+qid0304|West S [au]
+qid0305|Brain Dev 1987
+qid0306|diagnsis of thoracic back ain
+qid0307|Folsch H
+qid0308|solubility melatonin
+qid0309|salmon shimamura
+qid0310|GPX,SLEEP APNEA
+qid0311|CALCIUM, CALMODULIN AND CELL-CYCLE PROGRESSION
+qid0312|Boittin and mdx
+qid0313|giant naevus
+qid0314|"Visavadia BG"[Author]
+qid0315|moore v bcl2
+qid0316|human bone marrow and pancreas
+qid0317|cholesterol AND (brain OR neuro* OR neural) AND (rat OR rats OR mouse OR mice)
+qid0318|inhibitory G proteins
+qid0319|groger a
+qid0320|Kazlauskaite et al. (2003)
+qid0321|hipfracture
+qid0322|mammaplasty[majr] AND english[la] AND humans[mh] AND (consumerj[sb] OR review[pt] OR practice guideline[pt] OR guideline[pt] OR clinical trial[pt] OR patient education handout[pt])
+qid0323|griffiths bmj
+qid0324|nicotine replacement adolescents
+qid0325|D2Taq1A gene
+qid0326|brandt k. r.
+qid0327|grading granulosa cell tumor
+qid0328|"Perez-Mongiovi D"[Author]
+qid0329|constructing DNA superstructure
+qid0330|Amiry-Moghaddam
+qid0331|Protein kinase D regulates basolateral membrane protein exit 
+qid0332|Liu DC[au]
+qid0333|G. Deuschl
+qid0334|snap25 and post synaptic
+qid0335|"Blanton WB"[Author]
+qid0336|KRAB mineralocorticoid
+qid0337|soreide k [au]
+qid0338|calcium influx and magnetic
+qid0339|diagnostic immagin cat
+qid0340|15844470
+qid0341|p38 truncated
+qid0342|kaneda hypertens
+qid0343|brixen
+qid0344|aloe vera , its chemical
+qid0345|hypothermie
+qid0346|BBR & SMC
+qid0347|sasaki methylation sequence
+qid0348|terradot
+qid0349|AQP ethylmaleimide
+qid0350|Hispanic expenditure
+qid0351|niwa-k
+qid0352|lin y and  ghrelin and 2004
+qid0353|eltzschig hk
+qid0354|Lavialle M
+qid0355|RFK AND incretin
+qid0356|ZnO coliforms
+qid0357|UTI AND Sexually active teenagers
+qid0358|"overactive bladder" AND Gabapentine
+qid0359|retroactive interference
+qid0360|lung mesenchyme development
+qid0361|"cytomegalievirus diagnosis in renal and bone
+qid0362|kinetic proofreading yang
+qid0363|paresthesia and nerve blocks
+qid0364|oilrigg workers AND  cervical pain
+qid0365|dengue and leptospira
+qid0366|Vegitarian diet dogs
+qid0367|Caicedo + Schanler 
+qid0368|HPK and Chapel Hill
+qid0369|Pereyra-Alfonso, S.
+qid0370|neuhausen AND garner AND ding
+qid0371|Zn2SnO4
+qid0372|lerut locoregional
+qid0373|molluscan heparin cells
+qid0374|cd44v6 and Caco2
+qid0375|Stamenovic 2000 vimentin
+qid0376|Thiazide  ACEI
+qid0377|paroxetine AND teratogenic
+qid0378|parkinson [ti] OR [au]
+qid0379|distraction osteogenesis computer model 
+qid0380|Nuclear Cloning and Epigenetic Reprogramming of the Genome　2001
+qid0381|bickle dd pillai s
+qid0382|menha spicata and immunity
+qid0383|withdrawal treatment headache chronic
+qid0384|"Quax WJ"[Author] xylose
+qid0385|klf4 egr
+qid0386|Junop M [AU]
+qid0387|clinical trials of tuberculosis with pyrazinamide, Isoniazid, rifampicin , ethambutol
+qid0388|j vit nutr res[Jour] AND 58[volume] AND 4[issue] AND 436[page] AND 1988[pdat]
+qid0389|CARM1 wang
+qid0390|integratives vorgehen
+qid0391|recall frequency
+qid0392|exercise training in copd
+qid0393|"Andrews SJ"[Author]
+qid0394|"Fisher G"[Author]
+qid0395|muller braun
+qid0396|caffeine "gastroesophageal sphincter"
+qid0397|Hagensee M
+qid0398|moonlighting acetyl
+qid0399|hypofractionvaginal melanoma
+qid0400|FUT11 AND glycemia
+qid0401|shieh p
+qid0402|pharmazeutische zeitung
+qid0403|dhh and transduction
+qid0404|astrocyte-like stem cell
+qid0405|elastosis  solar
+qid0406|HO-1 & apoptosis
+qid0407|Fujise K atherosclerosis
+qid0408|lateral leg pain
+qid0409|vitamin C kidney damage
+qid0410|biochemistry, laying hens
+qid0411|atrophic pancreas
+qid0412|cardiac arrhythmia /dt
+qid0413|loftextNPG[filter] AND 0028-0836[ta] AND 1987:1995[dp]
+qid0414|NFAT IL-6
+qid0415|HFD glucagon
+qid0416|Hughes AND myelin protein zero
+qid0417|pharmacological changes in diabetic overactive bladder
+qid0418| The ovalbumin gene AND McReynolds L.A. AND O'Malley B.W.
+qid0419|steele waters crowell
+qid0420|cell cycle review
+qid0421|cd117 immunohistochemistry myeloid
+qid0422|RCBTB2 AND cell cycle
+qid0423|paper mill endotoxin
+qid0424|Rea Hypothermia
+qid0425|kinesin and tubulin in vitro 
+qid0426|trushin m
+qid0427|antilipolytic AND adrenergic
+qid0428|pedophilia treatments
+qid0429| THE EFFECTS OF COLCHICINES ON MITOSIS
+qid0430|protein binding rifampin
+qid0431|marchant r
+qid0432|monitoring and evaluating needle exchange
+qid0433|"advanced glycation receptors"
+qid0434|VIP KO
+qid0435|jelinkova l.
+qid0436|pericarditis therapy
+qid0437|Bruneval P
+qid0438|VP Lehto
+qid0439|AVE4221
+qid0440|Currie BJ
+qid0441|serra s[au] AND 849[pg]
+qid0442|"Golub TR"[Author]
+qid0443|amelogenesis imperfecta, pulp stone
+qid0444|polar end capping
+qid0445|Soheilian 
+qid0446|dinges d
+qid0447|Lehrer RI
+qid0448|cell croded
+qid0449|#20 AND bjerkeset
+qid0450|98 and 1-11
+qid0451|Mannino RJ
+qid0452|p16 mutation
+qid0453|Helicobacter pylori infection induces gastric cancer in Mongolian gerbils.
+qid0454|schirrmacher V
+qid0455|winikoff ellerton
+qid0456|Das A
+qid0457|"Nuclear medicine communications"[Jour] AND 24[volume] AND 2[issue] AND 1415[page] AND 2003[pdat]
+qid0458|fenton's reagent degradation
+qid0459|GIT and ARF
+qid0460|Geerts A
+qid0461|15882764 8411525 7531624 10024065
+qid0462|pham walse
+qid0463|2004[pdat] AND emtricitabine
+qid0464|activated macrophages MMP TNF-alpha "unstable plaque"
+qid0465|knockouts problem questions
+qid0466|"Sautter C"[Author]
+qid0467|GRP78 endoplasmic reticulum stress gene expression real-time pcr
+qid0468|rawden 2004
+qid0469|hiom k [au]
+qid0470|"Johansson K"[Author]
+qid0471|POPs  epigenetic
+qid0472|lead AND Tox[sb]
+qid0473|nyctalgia 
+qid0474|thyroid cancer and wnt
+qid0475|Patel R, Rouse MS, Piper KE, Steckelberg JM
+qid0476|basso-c and tumors
+qid0477|moffat jf
+qid0478|met and australian hospitals
+qid0479|PLEKHK1 AND cancer
+qid0480|q.wei y.h.jiang
+qid0481|Fanconi Syndrome Mitochondria
+qid0482|mandibular advancement splint kotecha
+qid0483|Spangler JG tabacco
+qid0484|SCA1
+qid0485|Muller M and 1998 and p53
+qid0486|manipulating the immune response and cytokine
+qid0487|virus drg
+qid0488|Mycophenolate mofetil in multiple sclerosis
+qid0489|repliction origin
+qid0490|targeted therapy, cancer
+qid0491|15866205
+qid0492| calcium channel
+qid0493|cruikshank
+qid0494|priori napolitano and 2002
+qid0495|lyme arthritis, narcotic
+qid0496|argatroban nejm
+qid0497|specific for Streptococcus suis based on the gene encoding the glutamate
+qid0498|abusabha[AU]
+qid0499|dna extraction method
+qid0500|Sar1 trafficking
+qid0501|paraplegia, cardiac output
+qid0502|application of pcr from fine needle aspirates for the diagnosis of cervical tuberculous lymphadenitis
+qid0503|onset of nail clubbing
+qid0504|Lin28 diabetes
+qid0505|syndromic surveillance review
+qid0506|apoptosis, cerebral cortex, development, neuron, mouse
+qid0507|smad3 joint
+qid0508|regulation affairs department
+qid0509|"Regulation of cell signalling by vitamin"
+qid0510|vandember & kuse mental rotation test
+qid0511|Langenbeck's archives of surgery [Jour] AND bone
+qid0512|antimicrobial drugs pregnancy breastfeeding contraception 
+qid0513| Radiology, 1991, 178(1): 271-276
+qid0514|((vitamin* ) )  AND (2005/09/05:2005/10/05[dp] OR 2005/09/05:2005/10/05[edat])
+qid0515|fatty acid and citrulline
+qid0516|Stress-Dependent Regulation of FOXO Transcription Factors by the SIRT1 Deacetylase 
+qid0517| high temperature
+qid0518|immunity to escherichia coli in piglets
+qid0519|"Selgrade MK"[Author]
+qid0520|0393-2990
+qid0521|Bcrp1 
+qid0522|CHES1 AND glucose
+qid0523|shoulder girdle
+qid0524|trivedi 2003
+qid0525|multiple sclerosis and infrared therapy
+qid0526|mrsa colonization and treatment
+qid0527|parp1 sumo
+qid0528|Dayan P
+qid0529|40[volume] AND 3[issue] AND 223[page] AND 1990[pdat]
+qid0530|352[volume] AND 1305[page] AND 2005[pdat]
+qid0531|Asnaghi bossi righetti
+qid0532|Cancer Genet Cytogenet
+qid0533|Eng[LA] AND epithelial type
+qid0534|klein cardiovascular 2001 millenium
+qid0535|resting glucose mouse
+qid0536|Diseases of unstable repeat expansion: Mechanisms and common principles
+qid0537|1990[pdat] AND Johnston[auth]
+qid0538|Vira 38 product for avian flu
+qid0539|broman j
+qid0540|Medical management of BPH AND reduction of TURP rates
+qid0541|fluorescein antibody
+qid0542|TASK potassium stomach
+qid0543|merkle t and plant
+qid0544|vrahas m
+qid0545|DOCTOR JOB ROLE
+qid0546|KASUYA K MACROPHAGES
+qid0547|sulfurtransferases
+qid0548|testis AND horizontal
+qid0549|NERVE SPARING MONOLATERAL RECTAL CANCER
+qid0550|photoperiod + pituitary
+qid0551|PATHOLOGE
+qid0552|ppGpp, Myxobacteria
+qid0553|first trimestr glucuse control diabetic mother infant
+qid0554|Segovia Cubero J[Au]
+qid0555|how to critique literature
+qid0556|Pancreatitis
+qid0557|drosophila genetics Proc Natl Acad Sci 
+qid0558|cyclazosin rat in vivo
+qid0559|Olestra AND gastrointestinal
+qid0560|bmp4 hogan chimera
+qid0561|orthodontic and nutrition
+qid0562|obrien ke [au]
+qid0563|freezing mouse sperm
+qid0564|Rab GEF 45 kDa
+qid0565|is hydroxyurea leukemogenic in essential thrombocythemia
+qid0566|"Marakis G"[Author]
+qid0567|cholesterol loading endothelial cell adhesion
+qid0568|antibodies diabetes neuropathy
+qid0569|Cherin 1994 polymyositis
+qid0570|attention deficit disorder diet
+qid0571|traumatic neuroimaging
+qid0572|recertification AND pediatric
+qid0573|radioactive iodine uptake and thyroid hormone levels
+qid0574|liver lymphoid infiltration
+qid0575|"epstein barr" overinfection
+qid0576|tlr conformation 
+qid0577|domain exchange characterizacion of chimeric lipase
+qid0578|"sterole" AND "zinc finger" AND yeast
+qid0579|acetyl cysteine lung
+qid0580|NM_002850
+qid0581|"Martin Beye"[Author]
+qid0582|Hallucinations and rivastigmine
+qid0583|bretagnol f
+qid0584|skeletal muscle stem cells
+qid0585|neud-4 and neural progenitors
+qid0586|mercury  and tooth
+qid0587|promoter AND HIV
+qid0588|UT southwestern
+qid0589|"Grenard AS"[Author]
+qid0590|johnston energy-based medicine spinal cord injury
+qid0591|kubis n
+qid0592|sadler, r [author]
+qid0593|celebrex efficacy\
+qid0594|REiderer and ferritin
+qid0595|bicarbonate alkalosis IV contrast
+qid0596|RENAL STENOIS
+qid0597|vitamin d gene expression
+qid0598|tau and phosphorylation 
+qid0599|15777564[UID]
+qid0600|"Simon T"[Author]
+qid0601|ovarian surface epithelium
+qid0602|curdlan conjugate
+qid0603|tks5 
+qid0604|PREGNANCY TROEMBOLIC
+qid0605|davenport more than a hot flash
+qid0606|infection and immunity, may2004, vol72, n5
+qid0607|"Dominick PK"[Author]
+qid0608|hydroxyniltrile hydrolases
+qid0609|protein  immunoassary aggregation 
+qid0610|dumont and tsh and thyroid
+qid0611|open artery
+qid0612|elegans nuclear actin
+qid0613|monobasic processing
+qid0614|ALK4 knockout
+qid0615|GDNF cerebellum
+qid0616|hubmayr and lung
+qid0617| dtxR(E175K
+qid0618|asthma herbal clinical trial
+qid0619|commiphora 
+qid0620|asetosalisylic acid and type 2 diabetes and meta-analysis
+qid0621|139[page] AND 2000[pdat] AND lane[first author]
+qid0622|passive smoking AND bladder
+qid0623|OSTERBERG L; 2005
+qid0624|15668929
+qid0625|lewis sl
+qid0626|osseointegration of dental implants in rabbit  bone with low mineral density
+qid0627|Nhan[auth]
+qid0628|Kuroda-Kawaguchi 
+qid0629|test wound-healing
+qid0630|medicaid socioeconomic
+qid0631|Levy 1998 210
+qid0632|beta-3 AND diabetes
+qid0633|Yoder and Goodrum and 2001
+qid0634|Colletti L
+qid0635|The human homolog of rat Jagged1 expressed by marrow stroma inhibits differentiation of 32D cells through interaction with Notch1
+qid0636|Quality control in the endoplasmic reticulum Ellgaard
+qid0637|mende-t
+qid0638|single locus variants huntingtons
+qid0639|Donor lymphocyte infusion
+qid0640|Impact of Gene Polymorphisms on Clinical Outcome
+qid0641|krebs NF
+qid0642|D-amino-acid archaea
+qid0643|pepeu g 351
+qid0644|vietnamese and conception
+qid0645|gustavsson hansson 1990
+qid0646|"Boyer ML"[Author]
+qid0647|central sleep apnea morphine
+qid0648|chevaleyre v
+qid0649|Genetic instability and darwinian selection in tumours
+qid0650|gill ka
+qid0651|hipoglicemiantes
+qid0652|gastroesophageal reflux and children
+qid0653|MedMarx 
+qid0654|lumbar spondylosis aneurysm
+qid0655|Itch
+qid0656|handicapped, acidash diet
+qid0657|toxoplasmosis abeliuk
+qid0658|d'escamard
+qid0659|M3 muscarinic receptor review
+qid0660|"r value"
+qid0661|Rothman chronic illness management
+qid0662|Souvik Maiti                                      Souvik Maiti                                                                      
+qid0663|cell mitochondria
+qid0664|Lauer G Krieg
+qid0665|apg1
+qid0666|"Garcia-Cosio F"[Author]
+qid0667|valproic acid and liver
+qid0668|ohmori y and meikai
+qid0669|measurement instruments determining knee ROM
+qid0670|levoglucosan 
+qid0671|campylobacter AND phosphonate
+qid0672|Nuclear localization and histone acetylation
+qid0673|rodriguesz 2001
+qid0674|Levitan IB
+qid0675|"Cornea"[Jour] AND mills[auth]
+qid0676|stress evolution life
+qid0677|lemonnier m and plasmid
+qid0678|aaa review thrombus
+qid0679|low iron pregancy
+qid0680|carotid duplex dizziness
+qid0681|cistic fibroz
+qid0682|ghuman galactose
+qid0683|read gs
+qid0684|"Ying P"[Author]
+qid0685|mefv
+qid0686|antiphopholipid syndrome [mesh] review [pt] english [la]
+qid0687|2002[pdat] AND Anderson GM[auth] AND Neurochemistry
+qid0688|spasmolytics in obstetrics
+qid0689|ed harris
+qid0690|"Journal of clinical oncology : official journal of the American Society of Clinical Oncology"[Jour] AND 21[volume] AND 2003[pdat] AND Bast[auth]
+qid0691|chemoradiotherapy colorectal cancer
+qid0692|spinal cord injury by gunshot
+qid0693|vertebral  brown tumour, management
+qid0694|Boulomie
+qid0695|Growth and cellular organization of /Arabidopsis/ pollen tubes in vitro 
+qid0696|"Zelazo PR"[Author]
+qid0697|vasanji
+qid0698|Butler MG
+qid0699|Uysal, K. T., Scheja, L., Wiesbrock, S. M., Bonner-Weir, S., and Hotamisligil,
+qid0700|"Drake ME Jr"[Author]
+qid0701|MS exacerbation GM-CSF
+qid0702|SH3BP1 AND pancreas
+qid0703|patient advocacy[majr] NOT letter[ptyp] AND humans[mh] AND english[la]
+qid0704|PrfA listeria
+qid0705|paclitaxel myocaydinal infarction
+qid0706|inositol venlafaxine
+qid0707|ultrasound and epidural
+qid0708|leydig cell tumor
+qid0709|ATM and 6-thio
+qid0710|bk and brenner
+qid0711|MLCK mitosis review
+qid0712|system A  amino acid intestine gene
+qid0713|elastin knockout mice
+qid0714|s100b iqgap*
+qid0715|ALT and AST assay, liver, mouse
+qid0716|stress preception and social indicators for low back, shoulder and joint pains in Japan
+qid0717|ricin AND intranasal
+qid0718|diamond blackfan therapy
+qid0719|Jamar F
+qid0720|antocyanin cancer study in animals
+qid0721|iron astrocyte
+qid0722|child and dental disease
+qid0723|algae urin exhaust
+qid0724|platelet bind heme 
+qid0725|Pinkerton* or Namazi* or lymphoma or penile or Behcet
+qid0726|CHD Primary Prevention
+qid0727|Ethier AND Griffiths
+qid0728|suga AND hyberger
+qid0729|MacGregor RR hiv
+qid0730|acyclovir AND cyclosporine
+qid0731|giardia apoptosis
+qid0732|elaeagnus
+qid0733|ros dna
+qid0734|1989[pdat] AND A comparative study on the effects of brotizolam and flurazepam on sleep and performance in the elderly
+qid0735|Gich I, Bayes M, Barbanoj MJ, Artigas R, Tost D, Mauleon D.
+qid0736|zhang barash
+qid0737|optic nerve bulge
+qid0738|therapy of fungal infections 
+qid0739|Doctors in love with patients
+qid0740|down syndrome osteoporosis
+qid0741|knee joint
+qid0742|quality of life & women 
+qid0743|connexin 43
+qid0744|Fisk NM, Taylor MJO.
+qid0745|flavopiridol inflammation
+qid0746|sacks AND karp cl
+qid0747|2005 park ye porcine oocyte
+qid0748|exercise training AND 2003[PDat] : 2005[PDat] AND Review [ Publication Type]
+qid0749|MAGE IAP
+qid0750|effective number of codons revisited
+qid0751|Indication AV Fistula Cimino
+qid0752|"Wirth T"[Author]
+qid0753|hypertension by obesity
+qid0754|www.yahoomail.com
+qid0755|betaine GABA transporter deficient
+qid0756|NDOR1 AND glycemia
+qid0757|chinnock roberts
+qid0758|enfermedad de basedow
+qid0759|immunological agent
+qid0760|Sirolimus-based therapy following early cyclosporine withdrawal provides significantly improved renal histology and function at 3 years
+qid0761|treatment and trigeminal neuralgia
+qid0762|Baumann AND ceruleus
+qid0763|fine ha
+qid0764|wang mitochondria apoptosis
+qid0765|family physical activity pedometers
+qid0766|cannabinoid receptor 
+qid0767|16023532 [uid]
+qid0768|diamond´s modified medium
+qid0769|blanc2002 purification
+qid0770|miniature time distribution
+qid0771|biochemical changes in cardiac hypertrophy
+qid0772|lung-esophageal fistula
+qid0773|taxus-IV trial 9
+qid0774|(nephropathy) AND ((Diagnosis AND genetics) OR (Differential Diagnosis[MeSH] OR Differential Diagnosis[Text Word] AND genetics) OR (Natural History OR Mortality OR Phenotype OR Prevalence OR Penetrance AND genetics) OR (therapy[Subheading] OR treatment[Text Word] OR treatment outcome OR investigational therapies AND genetics) OR (Genetic Counseling OR Inheritance pattern AND genetics) OR (Medical Genetics OR genotype OR genetics[Subheading] AND genetics) OR (DNA Mutational Analysis OR Laboratory techniques and procedures OR Genetic Markers OR diagnosis OR testing OR test OR screening OR mutagenicity tests OR genetic techniques OR molecular diagnostic techniques AND genetics))
+qid0775|DeSilva 
+qid0776|Sarker Maruyama
+qid0777|alleles color flower 
+qid0778|lavatelli f
+qid0779|iron anemia pediatrics
+qid0780|MEN1 AND cell cycle
+qid0781|flagellar assembly e coli
+qid0782|microarray podocyte
+qid0783|carbapenam antibiotics  india
+qid0784|passive smoking AND bladder cancer
+qid0785|foramen ovale percutaneous closer
+qid0786|GMO health
+qid0787|daily temperature
+qid0788|berry l AND chan a
+qid0789|methylene blue Urology
+qid0790|scott RC and epilepsy
+qid0791|10764282
+qid0792|inflated
+qid0793|motor tarsier
+qid0794|"Air GM"[Author]
+qid0795|Tribbe 3
+qid0796|chordoma case report
+qid0797|crp3
+qid0798|ARPP-2 localization
+qid0799|radiolabeled ligand AND in vivo receptor expression
+qid0800|age AND NFkB
+qid0801|agranulocytosis spironolactone
+qid0802|"Shk toxin" rabbit
+qid0803|Micronucleus AND COMET on blod
+qid0804|ltrasonic spectroskopy
+qid0805|metaraminol
+qid0806|ic50
+qid0807|congenital diseases of pancreas
+qid0808|modulation nervous system steroid
+qid0809|Furumoto 2002
+qid0810|hereditary prostate cancer linkage at chromosome 1q42.2-43
+qid0811|medical interview
+qid0812|Dietary supplements and physical exercise affecting bone and body composition in frail elderly persons
+qid0813|gastrointestinal smooth muscle epithelial cell
+qid0814|phosphatase ikb
+qid0815|DJ 1997 amalgam
+qid0816|Yun, Jong
+qid0817|"Harrison CJ"[Author]
+qid0818|(irritable bowel syndrome and antidepressant) AND ((clinical[Title/Abstract] AND trial[Title/Abstract]) OR clinical trials[MeSH Terms] OR clinical trial[Publication Type] OR random*[Title/Abstract] OR random allocation[MeSH Terms] OR therapeutic use[MeSH Subheading])
+qid0819|enamel and lead
+qid0820|Britigan BE
+qid0821| treat unvaccinated
+qid0822|"Chandler CE"[Author] diabetic neuropathy STZ and sciatic nerve ligation
+qid0823|Harrabin risk reporting and media
+qid0824|(1999)AND(Rimm)AND(meta-analysis)
+qid0825|nageotte MP
+qid0826|Nishimura 2004 Lu
+qid0827|phosphatidylinositol-3-kinase AND beclin-1
+qid0828|twice
+qid0829|weight-loss and appetite sensations and eating behavior
+qid0830|sulfur dioxide meng
+qid0831|alergy and senescence
+qid0832|Hegarty M
+qid0833|respiratory syncitial virus infection
+qid0834|apoptosis sh-sy5y dna
+qid0835|Tabata and fluorescence
+qid0836|Trucco M
+qid0837|glucocorticoids chlamydia pneumoniae
+qid0838|genistein protein kinase inhibition
+qid0839|lovastatina and hepatitis
+qid0840|1362-4962[ta] AND 2002/00/00:2105[dp]
+qid0841| actinomycin d to HepG2
+qid0842|Lejon 2004
+qid0843|hypoxicator
+qid0844|	Petro J, Hodgson JT, Matthews FE and Jones JR.
+qid0845|glucosamine oral and glucosamine patch
+qid0846|ginseng energy effectiveness
+qid0847|"Biophysical journal"[Jour] AND 88[volume] AND 247[page] AND 2005[pdat]
+qid0848|HeLA JNK
+qid0849|Eng[LA] AND bands. it is lax when the
+qid0850|dunlap 1989
+qid0851|green sa, 1983
+qid0852|Millar, J. R
+qid0853|Alnaeb
+qid0854|2759947
+qid0855|Percutaneous left atrial appendage transcatheter occlusion 
+qid0856|oral delivery VLP problem
+qid0857|elective tracheostomy
+qid0858|kivimaki sleep work
+qid0859|"therapeutic listening"[tm]
+qid0860|Sims AND Amgen
+qid0861|topo II inhibitors
+qid0862|pancreatic diseases/pathology
+qid0863|jak
+qid0864|digital rectal examination
+qid0865|Social Anxiety Group Therapy
+qid0866|sodium channel optic nerve
+qid0867|"BMJ (Clinical research ed.)"[Jour] AND 321[volume] AND 1440[page] AND 2000[pdat]
+qid0868|cantharidin AND PP2A AND HSP27
+qid0869|dapk differentiaition
+qid0870|mucin-type
+qid0871|vasoactive peptide and t84
+qid0872|hypoxia retinal damage swine
+qid0873|MPR P glycoprotein
+qid0874|Jacobson 1984
+qid0875|"Turel KE"[Author]
+qid0876|opioid receptor chromatographic
+qid0877|king ib, lipid
+qid0878|"The New England journal of medicine"[Jour] AND 343[volume] AND 1863[page] AND 2000[pdat] AND Marx SJ[auth]
+qid0879|7774815
+qid0880|ada
+qid0881|bonding and root dentin
+qid0882|kidney stones + dietary
+qid0883| Clinical coxsackievirus B isolates differ from laboratory strains
+qid0884|tilly
+qid0885|Soifer NW and intravenous
+qid0886|Fasciola diagnosis cattle performance
+qid0887|lupski j
+qid0888|Hovel 1987 mammal
+qid0889|Parental incarceration AND child outcomes
+qid0890|botulinum termination of action
+qid0891|1988[pdat] AND leese, T[auth]
+qid0892|notbohm-h
+qid0893|Vascular endothelial growth factor
+qid0894|yildis y
+qid0895|Sosa-Pineda 1997 
+qid0896|PPP2R3B AND incretin
+qid0897|Required   Nutrition rhesus
+qid0898|MTT transporter
+qid0899|asbestos AND (length* OR short fiber)
+qid0900|encircling sclrea
+qid0901|hippocampus all receptors types
+qid0902|vocabulary, early literacy and AAC
+qid0903|capecitabine and irinotecan
+qid0904|acetyl choline transferase
+qid0905|toll like receptor AND (brain OR cns)
+qid0906|foot pain radiographic
+qid0907|Driving in adults with refractory localization-related epilepsy
+qid0908|gli1 development
+qid0909|Q45894
+qid0910|west nile chorioretinitis
+qid0911|gugliucci
+qid0912|Awrey AND Koth [AU]
+qid0913|malumbres
+qid0914|stroke hypercoagulability pregnancy
+qid0915|diabetes fracture
+qid0916|wilkinson aj
+qid0917|"Led zeplin"[Title]
+qid0918|Relation between nocturnal decline in blood pressure and mortality. The Ohasama Study.
+qid0919|morris sj[au]
+qid0920|inhibitory rna
+qid0921|target-directed, mutagenesis, complementary, DNA damage
+qid0922|PBN
+qid0923|Rhodamine AND Arsenic
+qid0924|traceability and dna and beef
+qid0925|Nurse Practitioners diabetes outcomes
+qid0926|mraZ E.coli
+qid0927|nader ga 2001
+qid0928|tox[sb] AND (~2152-56-9[RN] OR "~"[MH])
+qid0929|AGUILAR AG
+qid0930|Par and polarity
+qid0931|2005[pdat] AND multiple chronic illness
+qid0932|Linder and human macrophages and 1999
+qid0933|cml vaccine 
+qid0934|combined therapy AND onichomicosis
+qid0935|nm23 and liver
+qid0936|stress spermatogenesis
+qid0937|#22 and #4
+qid0938|Centrix
+qid0939|jaw dislocation anesthesia
+qid0940|1 millimeter length
+qid0941|OLFSEN, marcus, druss, elinson
+qid0942|U6 promoter reporter luciferase
+qid0943|schrans-stassen
+qid0944|Zazula M
+qid0945|neurodegeneration diet
+qid0946|ocular nervous
+qid0947|omeprazole and CYP2C19
+qid0948|Sonntag K
+qid0949|Culver GM
+qid0950|postgrad med j [TA] AND 1980 [DP]
+qid0951|diabetes and garcinone
+qid0952|Kusano T Plant
+qid0953|endometrial hyperplasia & carcinoma & PTEN
+qid0954|non alcoholic steatosis hepatitis and tobacco
+qid0955|testosteron heart
+qid0956|gasser T
+qid0957|fear of dental pain
+qid0958|Pennebaker
+qid0959|isarni a
+qid0960|thorax compression
+qid0961|tumor + defense
+qid0962|J.rheuma[Jour] AND 1037[page]
+qid0963|pain location AND no significant difference
+qid0964|tanis pj
+qid0965|infancy[TW] AND learning development[TW]
+qid0966|CCR7 and cancer and neck
+qid0967|zsgreen mice
+qid0968|plant lindseyh
+qid0969|example of phenotype
+qid0970|gleason TUR chips
+qid0971|healthy body image
+qid0972|punch technique implants indications
+qid0973|Foucher A
+qid0974|arcas bay
+qid0975|non spherocytic haemolytic anemias
+qid0976|furosemide induced aldosteronism
+qid0977|((#34)) AND (#27)
+qid0978|strausfeld colc
+qid0979| Faming Zhang
+qid0980|ALS cabiniod
+qid0981|long, apoptosis
+qid0982|melatonin reiter neuroden*
+qid0983|smotherman and hair cell
+qid0984|VCX2 AND glucose
+qid0985|ufc
+qid0986|"Ge CH"[Author]
+qid0987|Treatment of hypsarrhythmia with ACTH. In: Molecules and Mental Health
+qid0988|NMR dynamics function AND nature[journal]
+qid0989|mayer and Gatchel
+qid0990|art anatomy learning living[ti]
+qid0991|betz 1991 xanthine
+qid0992|coxsackievirus A24 sequencing
+qid0993|erdemli b
+qid0994|TBP-Related Factor  2 in Drosophila
+qid0995|nursing care RA
+qid0996|Nicotine Replacement Therapy and Weight Gain
+qid0997|bradke f AND dotti g.c
+qid0998|antibod* neutrali* complement hiv
+qid0999|16 trisomy AND acute lyphoblastic leukemia
