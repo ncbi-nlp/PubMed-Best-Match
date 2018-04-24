@@ -7,7 +7,7 @@ This repository demonstrates how the new Best Match sort order in PubMed works. 
 5. *Evaluate* approaches.
 6. *Convert the XML model* to a JSON format (for Solr, see below).
 
-As a result, this exposes the offline research for developing the new Best Match algorithm and model computation. For a live implementation, we recommend to take a look at [Solr](https://github.com/apache/lucene-solr) and its [ltr](https://github.com/apache/lucene-solr/tree/master/solr/contrib/ltr) plugin.
+As a result, this exposes the offline research for developing the new Best Match algorithm and model computation. For a live implementation, we recommend to take a look at [Solr](https://github.com/apache/lucene-solr) and its [LTR](https://github.com/apache/lucene-solr/tree/master/solr/contrib/ltr) plugin.
 
 ## Setup
 A full solution consists of an information retrieval system to fetch articles matching the query and an implementation of LambdaMART to rerank the results. While this repository focuses on training a ranking model as implemented in the Best Match sort order of PubMed, we provide sample data to simulate the fetching steps.
@@ -62,7 +62,7 @@ Usage:
 This command will download some data. This includes the PMCID-PMIC mapping file to identify which articles have a full text available and [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/), a very useful Java library that implements many learning-to-rank algorithms.
 
 ### pbm classify
-A sample dataset is provided in this repository, from a [previously published day of logs](ftp://ftp.ncbi.nlm.nih.gov/pub/wilbur/DAYSLOG). This classification step aims at roughly filtering queries that are relevant for training. Essentially, we want to discard queries with fields, regular expressions or boolean operations. The remaining set is the one used for training, since the other categories of queries are better handled by the search engine.
+A sample dataset is provided in this repository, from a <a href="ftp://ftp.ncbi.nlm.nih.gov/pub/wilbur/DAYSLOG">previously published day of logs</a>. This classification step aims at roughly filtering queries that are relevant for training. Essentially, we want to discard queries with fields, regular expressions or boolean operations. The remaining set is the one used for training, since the other categories of queries are better handled by the search engine.
 
 ### pbm fetch
 Once the queries are curated, we need to fetch the corresponding articles in XML format (in `data/articles`) according to the sample dataset results (in `data/results`). We use eutils for this process and there are some limitations. By default, only 3 requests per second can be performed, but by generating an API key and entering it in the config file (see above), 10rps are allowed. [More information here.](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/)
