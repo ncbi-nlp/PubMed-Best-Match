@@ -28,7 +28,7 @@ python setup.py install
 ```
 
 ### Configuration
-The `config.py` file at the root of the folder allows you to tweak various parameters.
+The `config_example.py` file at the root of the folder allows you to tweak various parameters. You will need to rename it to `config.py` whether or not you want to update it.
 
 #### api_key
 An API key is needed in order to allows a higher throughput when downloading articles. [More information here.](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/)
