@@ -7,6 +7,7 @@ Usage:
     pbm calculate
     pbm train
     pbm evaluate (before|after)
+    pbm export
 """
 from docopt import docopt
 
@@ -29,6 +30,8 @@ def main():
             evaluate.evaluate(False)
         if args["after"]:
             evaluate.evaluate(True)
+    if args["export"]:
+        from bestmatch import export
 
 if __name__ == '__main__':
     main()
