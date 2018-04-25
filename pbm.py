@@ -10,10 +10,6 @@ Usage:
     pbm export
 """
 from docopt import docopt
-import locale
-def getpreferredencoding(do_setlocale = True):
-    return "utf-8"
-locale.getpreferredencoding = getpreferredencoding
 
 # TODO: add controls to verify the workflow (e.g. not to train before loading articles)
 def main():

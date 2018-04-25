@@ -30,12 +30,12 @@ with open(base_path+"queries.txt", encoding='utf8') as f, \
         (key, val) = line.split("|")
         qtype = query_type(val)
         if qtype == "REGEX":
-            regex_file.write(key+"|"+val.strip()+"\n")
+            regex_file.write(key+"|"+val.strip()+"\n", encoding='utf8')
         elif qtype == "FIELD":
-            field_file.write(key+"|"+val.strip()+"\n")
+            field_file.write(key+"|"+val.strip()+"\n", encoding='utf8')
         elif qtype == "PHRASE":
-            phrase_file.write(key+"|"+val.strip()+"\n")
+            phrase_file.write(key+"|"+val.strip()+"\n", encoding='utf8')
         elif qtype == "BOOLEAN":
-            boolean_file.write(key+"|"+val.strip()+"\n")
+            boolean_file.write(key+"|"+val.strip()+"\n", encoding='utf8')
         else:
-            simple_file.write(key+"|"+val.strip()+"\n")
+            simple_file.write(key+"|"+val.strip()+"\n", encoding='utf8')
