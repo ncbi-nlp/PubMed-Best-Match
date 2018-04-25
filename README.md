@@ -74,7 +74,7 @@ The next step is to calculate the features for each document for each query. Thi
 This command will allow you to train on the training set, validate on the validation set and test on the test set defined above. the output of the RankLib library in this process will be output. Note that because of the small amount of data, the training will tend to overfit. Still, there is a three-fold (0.1821 to 0.5225) improvement on unseen data (the test set) that proves the pipeline's ability to learn and generalize relevance.
 
 ### pbm evaluate (before|after)
-Either `before` or `after` must be entered for this command. `before` will evaluate the test set before reranking, i.e. based on BM25 results. `after` will evaluate the test set after reranking using the trained model in the previous step. The NDCG@t value is provided for both, where it can be defined in the configuration file.
+Either `before` or `after` must be entered for this command. `before` will evaluate the test set before reranking, i.e. based on BM25 results. `after` will evaluate the test set after reranking using the trained model in the previous step. The NDCG@t value is provided for both, where t can be defined in the configuration file.
 
 ### pbm export
 If you are using Solr and you need to add the calculated model for its LTR plugin, use this command. This will create a `data/training/model.json` file that will be compatible with Solr's LTR functions. This command essentially parses the model created from RankLib and translate it in Solr's format.
