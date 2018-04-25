@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from config import *
 from bestmatch.features import *
+from bestmatch.utils import cliProgress
 
 fc = FeatureCalculator()
 fc.setup(True, False, "simple")
@@ -50,8 +51,12 @@ try:
     os.remove(dataset_path+"dataset.txt")
 except OSError:
     pass
+print("Calculating features...")
+i = 0
 for qid in qids:
     createEntries(qid)
+    cliProgress(i, len(qids))
+    i += 1
 
 # Now creating splits
 createSplits(dataset_path+"dataset.txt")

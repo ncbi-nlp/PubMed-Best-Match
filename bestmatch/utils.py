@@ -13,6 +13,13 @@ def flatten(l):
         else:
             yield el
 
+def cliProgress(i, end_val, bar_length=20):
+    percent = float(i) / end_val
+    hashes = '#' * int(round(percent * bar_length))
+    spaces = ' ' * (bar_length - len(hashes))
+    sys.stdout.write("\rRunning: [{0}] {1}%".format(hashes + spaces, int(round(percent * 100))))
+    sys.stdout.flush()
+
 def loadQueries(q_path):
     queries = {}
     with open(q_path, encoding='utf8') as f:
