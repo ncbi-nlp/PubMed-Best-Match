@@ -21,9 +21,11 @@ In order to setup the environment, please run the following commands. First, you
 git clone https://github.com/ncbi-nlp/PubMed-Best-Match.git
 ```
 
-Then, you will need to install the module. This will take care of installing all dependencies and allow you to run commands for an easy access to generating data and training on queries:
+Then, you will need to install the module. This will take care of installing all dependencies and allow you to run commands for an easy access to generating data and training on queries. You may want to [create a virtual environment ](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/)for this project:
 ```
 cd PubMed-Best-Match
+python3 -m virtualenv env
+source env/bin/activate
 python setup.py install
 ```
 
