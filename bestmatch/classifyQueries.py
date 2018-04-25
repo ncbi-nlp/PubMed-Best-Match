@@ -21,21 +21,21 @@ def query_type(q):
 
 # Query classification
 with open(base_path+"queries.txt", encoding='utf8') as f, \
-     open(sorted_path+"regex_queries.txt", "w") as regex_file, \
-     open(sorted_path+"field_queries.txt", "w") as field_file, \
-     open(sorted_path+"phrase_queries.txt", "w") as phrase_file, \
-     open(sorted_path+"boolean_queries.txt", "w") as boolean_file, \
-     open(sorted_path+"simple_queries.txt", "w") as simple_file:
+     open(sorted_path+"regex_queries.txt", "w", encoding='utf8') as regex_file, \
+     open(sorted_path+"field_queries.txt", "w", encoding='utf8') as field_file, \
+     open(sorted_path+"phrase_queries.txt", "w", encoding='utf8') as phrase_file, \
+     open(sorted_path+"boolean_queries.txt", "w", encoding='utf8') as boolean_file, \
+     open(sorted_path+"simple_queries.txt", "w", encoding='utf8') as simple_file:
     for line in f:
         (key, val) = line.split("|")
         qtype = query_type(val)
         if qtype == "REGEX":
-            regex_file.write(key+"|"+val.strip()+"\n", encoding='utf8')
+            regex_file.write(key+"|"+val.strip()+"\n")
         elif qtype == "FIELD":
-            field_file.write(key+"|"+val.strip()+"\n", encoding='utf8')
+            field_file.write(key+"|"+val.strip()+"\n")
         elif qtype == "PHRASE":
-            phrase_file.write(key+"|"+val.strip()+"\n", encoding='utf8')
+            phrase_file.write(key+"|"+val.strip()+"\n")
         elif qtype == "BOOLEAN":
-            boolean_file.write(key+"|"+val.strip()+"\n", encoding='utf8')
+            boolean_file.write(key+"|"+val.strip()+"\n")
         else:
-            simple_file.write(key+"|"+val.strip()+"\n", encoding='utf8')
+            simple_file.write(key+"|"+val.strip()+"\n")
