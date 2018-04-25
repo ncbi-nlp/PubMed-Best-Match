@@ -13,7 +13,7 @@ As a result, this exposes the offline research for developing the new Best Match
 A full solution consists of an information retrieval system to fetch articles matching the query and an implementation of LambdaMART to rerank the results. While this repository focuses on training a ranking model as implemented in the Best Match sort order of PubMed, we provide sample data to simulate the fetching steps.
 
 ### Prerequisites
-Everything has been tested on OSX. Unix should work well too, but the install might run into some problems on Windows. If this is the case, you will not be able to run the commands but, of course, you will be able to run the Python scripts – assuming it is installed. The code enforces the use of Python 3.4+ as it has not been tested on earlier versions.
+Everything has been tested on OSX. Unix should work well too, but the install might run into some problems on Windows. If this is the case, you will not be able to run the commands but, of course, you will be able to run the Python scripts – assuming it is installed. The code enforces the use of Python 3.4+ as it has not been tested on earlier versions. `pip` will be needed to install the dependencies too.
 
 ### Installation
 In order to setup the environment, please run the following commands. First, you need to download the repository, either from GitHub or via Git (if installed):
@@ -21,16 +21,19 @@ In order to setup the environment, please run the following commands. First, you
 git clone https://github.com/ncbi-nlp/PubMed-Best-Match.git
 ```
 
-Then, you will need to install the module. This will take care of installing all dependencies and allow you to run commands for an easy access to generating data and training on queries. You may want to [create a virtual environment ](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/)for this project:
+Then, you will need to install the module. This will take care of installing all dependencies and allow you to run commands for an easy access to generating data and training on queries. You may want to [create a virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/) for this project:
 ```
 cd PubMed-Best-Match
 python3 -m virtualenv env
 source env/bin/activate
-python setup.py install
+pip install -e .
 ```
 
 ### Configuration
-The `config_example.py` file at the root of the folder allows you to tweak various parameters. You will need to rename it to `config.py` whether or not you want to update it.
+The `config_example.py` file at the root of the folder allows you to tweak various parameters. You will need to rename it to `config.py` whether or not you want to update it:
+```
+mv config_example.py config.py
+```
 
 #### api_key
 An API key is needed in order to allows a higher throughput when downloading articles. [More information here.](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/)

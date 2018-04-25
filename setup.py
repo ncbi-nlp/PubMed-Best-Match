@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-import pbm
 
 setup(
     name='PubMed Best Match',
