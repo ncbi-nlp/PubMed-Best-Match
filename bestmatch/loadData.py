@@ -33,6 +33,6 @@ print("Loading RankLib")
 print("    Downloading...")
 url = 'https://sourceforge.net/projects/lemur/files/lemur/RankLib-2.9/RankLib-2.9.jar/download'
 r = requests.get(url, allow_redirects=True)
-with open(data_path+"/RankLib.jar", 'wb') as f:
+with open(dataset_path+"RankLib.jar", 'wb') as f:
     f.write(r.content)
 print("Done.\n")
