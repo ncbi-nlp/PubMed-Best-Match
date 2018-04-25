@@ -46,7 +46,10 @@ for item in os.listdir(results_path):
                 with open(articles_path+qid+".txt", "w") as res:
                     res.write("")
             else:
-                params = {"db": "pubmed", "retmode": "xml", "id":pubmedIDs, "api_key":api_key}
+                if api_key != '':
+                    params = {"db": "pubmed", "retmode": "xml", "id":pubmedIDs, "api_key":api_key}
+                else:
+                    params = {"db": "pubmed", "retmode": "xml", "id":pubmedIDs}
                 item = qid+".txt"
                 q.put([item,params])
 

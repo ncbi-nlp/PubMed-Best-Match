@@ -15,7 +15,7 @@ def flatten(l):
 
 def loadQueries(q_path):
     queries = {}
-    with open(q_path) as f:
+    with open(q_path, encoding='utf8') as f:
         for line in f:
            (key, val) = line.split("|")
            queries[key] = val.strip().casefold()
