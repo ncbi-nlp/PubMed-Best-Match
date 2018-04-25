@@ -20,7 +20,7 @@ def query_type(q):
     return 'SIMPLE'
 
 # Query classification
-with open(base_path+"queries.txt") as f, \
+with open(base_path+"queries.txt", encoding='utf8') as f, \
      open(sorted_path+"regex_queries.txt", "w") as regex_file, \
      open(sorted_path+"field_queries.txt", "w") as field_file, \
      open(sorted_path+"phrase_queries.txt", "w") as phrase_file, \
