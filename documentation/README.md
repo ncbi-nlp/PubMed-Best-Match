@@ -35,6 +35,6 @@ The histogram below shows the NDCG distribution for the test dataset. While BM25
 ![BM25_L2R_distributions](./images/BM25_L2R_distributions.png?raw=true)
 
 #### NDCG improvement/deterioration
-The density curve below shows the proportion of queries in the test set for which the results deteriorated after adding L2R (below 0) and the proportion for which the results improved after L2R's addition. As can be seen (and the numbers at the top help), the area under the curve is higher in the improvement side.
+The density curve below shows the proportion of queries in the test set for which the results deteriorated after adding L2R (below 0) and the proportion for which the results improved after L2R's addition. As can be seen (and the numbers at the top help), the area under the curve is higher in the improvement side as 86.5% of queries are improved after adding L2R on the held-out set.
 
 ![BM25_L2R_improvement](./images/BM25_L2R_improvement.png?raw=true)
