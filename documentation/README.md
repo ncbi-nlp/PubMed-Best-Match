@@ -32,9 +32,9 @@ The set of 46,000 queries we used for training in PubMed contains unique queries
 #### NDCG distribution
 The histogram below shows the NDCG distribution for the test dataset. While BM25 yields a skewed distribution (with many queries close to NDCG@20=0), L2R provides a more homogeneous distribution which explains its overall quality.
 
-[BM25_L2R_distributions](./images/BM25_L2R_distributions.png?raw=true)
+![BM25_L2R_distributions](./images/BM25_L2R_distributions.png?raw=true)
 
 #### NDCG improvement/deterioration
 The density curve below shows the proportion of queries in the test set for which the results deteriorated after adding L2R (below 0) and the proportion for which the results improved after L2R's addition. As can be seen (and the numbers at the top help), the area under the curve is higher in the improvement side.
 
-![BM25_L2R_improvement](./BM25_L2R_improvement.png?raw=true)
+![BM25_L2R_improvement](./images/BM25_L2R_improvement.png?raw=true)
