@@ -85,7 +85,7 @@ Either `before` or `after` must be entered for this command. `before` will evalu
 If you are using Solr and you need to add the calculated model for its LTR plugin, use this command. This will create a `data/training/model.json` file that will be compatible with Solr's LTR functions. This command essentially parses the model created from RankLib and translate it in Solr's format.
 
 ## More detailed analysis
-We refer you to the documentation in this repository for additional data and conclusions drawn from them. It includes additional tables, explanations and some figures.
+We refer you to the [documentation](./documentation/README.md) in this repository for additional data and conclusions drawn from them. It includes additional tables, explanations and some figures.
 
 #### Disclaimer
 The gold standard dataset used in this repository serves only to show how learning-to-rank converges better towards an effective relevance model. It is not derived from PubMed logs, it is artificial and computationally generated.
