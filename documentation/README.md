@@ -20,7 +20,7 @@ We provide in this section further information regarding the queries. Particular
 #### Query occurrences
 Some PubMed queries are very popular, however, they only represent a very small fraction of total queries. The figures below depict the volume of queries in PubMed based on how many times they occur in a year, with a focus on queries occurring one to ten times. As can be seen, 87.3% of queries are unique in PubMed, and 98.8% of queries occur less than 10 times in a year.
 
-![Query_occurrence_distribution](https://raw.githubusercontent.com/ncbi-nlp/PubMed-Best-Match/master/images/Query_occurrence_distribution.png =250x)
+![Query_occurrence_distribution](./images/Query_occurrence_distribution.png?raw=true)
 ![Query_occurrence_distribution_1-10](https://raw.githubusercontent.com/ncbi-nlp/PubMed-Best-Match/master/images/Query_occurrence_distribution_1-10.png =250x)
 
 #### CTR per occurrence number
