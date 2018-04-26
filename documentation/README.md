@@ -1,8 +1,8 @@
-## Additional documentation
+# Additional documentation
 
 This folder provides a lot more information on various experiments conducted on the pipeline. Particularly, since we cannot share the set of queries used for training L2R for PubMed, we provide here more details regarding the queries, their distribution, their click-through rates, etc. We also evaluated various first layers besides BM25 and we report the results of these experiments.
 
-### First layer
+## First layer
 Our choice of using BM25 is not arbitrary. It is justified by some internal experiments we conducted which led to the same conclusions as in the past literature (e.b. Managing Gigabytes: Compressing and Indexing Documents and Images by Witten I, Moffat A, and Bell TC. 1999). Our experiments used Divergence from randomness (Amati et al. 2002) as a competitor for BM25. However, given the very high number of results we fetch for reranking (500), there is not much difference between this approach and BM25. We also studied how a combination of them, following (Fox and Shaw, 1994) especially the COMBSUM combination, would perform. The results are displayed in the table below.
 
 | Evaluation         | BM25 | DfR - I(ne)L2 | BM25 & DfR (using the COMBSUM junction) |
@@ -14,7 +14,7 @@ Our choice of using BM25 is not arbitrary. It is justified by some internal expe
 
 As can be seen, the true value lies in the addition of L2R. The ranking quality of the top 20 results improves dramatically by a factor of 3.
 
-### Query analysis
+## Query analysis
 We provide in this section further information regarding the queries. Particularly, we focus on their popularity distribution, the CTR associated to this distribution, the NDCG distributions and the improvement or deterioration brought by L2R.
 
 #### Query occurrences
