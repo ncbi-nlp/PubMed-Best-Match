@@ -30,23 +30,24 @@ def createEntries(qid):
                     topten += 1
         # Check that at least 5 are in the GS top 10
         if topten > 4:
-            fc.getArticles(qid) # Locally stores the articles for this query in a python object
-            lines = ""
-            # Compute each line for the dataset
-            for sr in srres:
-                rel = computeRelevance(sr, gsres) # Relevance score
-                lines += str(rel) + " " + qid.replace("qid", "qid:") + " "
-                features = fc.computeFeatures(query, sr) # Feature calculation
-                fi = 1
-                for feature in features:
-                    if feature != 0:
-                        lines += str(fi)+":"+str(feature)+" "
-                    fi += 1
-                lines += "#docid=" + sr + "\n"
-            with open(dataset_path+"dataset.txt", "a") as f:
-                f.write(lines)
+            try:
+                fc.getArticles(qid) # Locally stores the articles for this query in a python object
+                lines = ""
+                # Compute each line for the dataset
+                for sr in srres:
+                    rel = computeRelevance(sr, gsres) # Relevance score
+                    lines += str(rel) + " " + qid.replace("qid", "qid:") + " "
+                    features = fc.computeFeatures(query, sr) # Feature calculation
+                    fi = 1
+                    for feature in features:
+                        if feature != 0:
+                            lines += str(fi)+":"+str(feature)+" "
+                        fi += 1
+                    lines += "#docid=" + sr + "\n"
+                with open(dataset_path+"dataset.txt", "a") as f:
+                    f.write(lines)
+            except: pass # If an article failed to be downloaded
 
-# TODO: add processing information
 try:
     os.remove(dataset_path+"dataset.txt")
 except OSError:
