@@ -14,7 +14,7 @@ import requests
 progress = 0
 def getArticle(item, params):
     global progress
-    sys.stdout.write("\r{0}/{1}".format(progress, len(match)))
+    sys.stdout.write("\r{0}/{1}".format(progress, match))
     sys.stdout.flush()
     try:
         data = requests.post("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi", params).text
@@ -29,13 +29,17 @@ def worker():
         getArticle(item[0], item[1])
         q.task_done()
 
+# Slow down if no API key
+threads = 3
+if api_key == "":
+    threads = 1
 q = Queue()
-for i in range(3):
+for i in range(threads):
      t = threading.Thread(target=worker)
      t.daemon = True
      t.start()
 
-match = {}
+match = 0
 for item in os.listdir(results_path):
     if not item.startswith('.') and os.path.isfile(os.path.join(results_path, item)):
         with open(results_path+item) as res:
@@ -52,6 +56,7 @@ for item in os.listdir(results_path):
                     params = {"db": "pubmed", "retmode": "xml", "id":pubmedIDs}
                 item = qid+".txt"
                 q.put([item,params])
+                match += 1
 
 q.join()
 print()
