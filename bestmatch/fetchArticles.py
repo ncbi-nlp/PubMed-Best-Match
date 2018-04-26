@@ -33,12 +33,15 @@ def worker():
 threads = 3
 if api_key == "":
     threads = 1
+    print("No API key was set in the configuration file. Download will be slower to ensure eutils doesn't restrict access to the papers.")
 q = Queue()
 for i in range(threads):
      t = threading.Thread(target=worker)
      t.daemon = True
      t.start()
 
+print()
+print("Downloading...")
 match = 0
 for item in os.listdir(results_path):
     if not item.startswith('.') and os.path.isfile(os.path.join(results_path, item)):
