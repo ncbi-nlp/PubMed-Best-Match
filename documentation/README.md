@@ -21,20 +21,20 @@ We provide in this section further information regarding the queries. Particular
 Some PubMed queries are very popular, however, they only represent a very small fraction of total queries. The figures below depict the volume of queries in PubMed based on how many times they occur in a year, with a focus on queries occurring one to ten times. As can be seen, 87.3% of queries are unique in PubMed, and 98.8% of queries occur less than 10 times in a year.
 
 ![Query_occurrence_distribution](./images/Query_occurrence_distribution.png?raw=true)
-![Query_occurrence_distribution_1-10](https://raw.githubusercontent.com/ncbi-nlp/PubMed-Best-Match/master/images/Query_occurrence_distribution_1-10.png =250x)
+![Query_occurrence_distribution_1-10](./images/Query_occurrence_distribution_1-10.png?raw=true)
 
 #### CTR per occurrence number
 The set of 46,000 queries we used for training in PubMed contains unique queries only (i.e. duplicates are removed). The figures below depict the average CTR@20 (click through rate below the 20th document for a query) observed with respect to different query popularities, with a focus on the 10 first. It clearly looks like unique queries are driving the overall CTR@20 of 0.4 observed.
 
-![Query_occurrence_CTR](https://raw.githubusercontent.com/ncbi-nlp/PubMed-Best-Match/master/images/Query_occurrence_CTR.png =250x)
-![Query_occurrence_CTR_1-10](https://raw.githubusercontent.com/ncbi-nlp/PubMed-Best-Match/master/images/Query_occurrence_CTR_1-10.png =250x)
+![Query_occurrence_CTR](./images/Query_occurrence_CTR.png?raw=true)
+![Query_occurrence_CTR_1-10](./images/Query_occurrence_CTR_1-10.png?raw=true)
 
 #### NDCG distribution
 The histogram below shows the NDCG distribution for the test dataset. While BM25 yields a skewed distribution (with many queries close to NDCG@20=0), L2R provides a more homogeneous distribution which explains its overall quality.
 
-[[https://github.com/ncbi-nlp/PubMed-Best-Match/blob/master/documentation/images/BM25_L2R_distributions.png]]
+[BM25_L2R_distributions](./images/BM25_L2R_distributions.png?raw=true)
 
 #### NDCG improvement/deterioration
 The density curve below shows the proportion of queries in the test set for which the results deteriorated after adding L2R (below 0) and the proportion for which the results improved after L2R's addition. As can be seen (and the numbers at the top help), the area under the curve is higher in the improvement side.
 
-![BM25_L2R_improvement](https://raw.githubusercontent.com/ncbi-nlp/PubMed-Best-Match/master/images/BM25_L2R_improvement.png=500x)
+![BM25_L2R_improvement](./BM25_L2R_improvement.png?raw=true)
