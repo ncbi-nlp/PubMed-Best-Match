@@ -36,7 +36,7 @@ mv config_example.py config.py
 ```
 
 #### api_key
-An API key is needed in order to allows a higher throughput when downloading articles. [More information here.](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/)
+An API key is needed in order to allow a higher throughput when downloading articles. Fetching will be automatically throttled by pbm if no key is provided, to prevent errors from the eutils side. [More information here.](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/)
 
 #### Splits
 By default, 65% of queries are use for training, 15% for validating and 20% for testing. Please make sure that these numbers add up to 1 as there is no further check in the code.
